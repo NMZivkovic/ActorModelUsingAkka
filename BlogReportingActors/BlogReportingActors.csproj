@@ -12,7 +12,7 @@
     <Reference Include="System.Transactions" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Akka.Serialization.Hyperion" Version="1.4.31" />
+    <PackageReference Include="Akka.Serialization.Hyperion" Version="1.4.32" />
     <PackageReference Include="Hyperion" Version="0.12.0" />
     <PackageReference Include="Microsoft.Extensions.ObjectPool" Version="6.0.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
